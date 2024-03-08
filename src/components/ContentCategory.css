@@ -1,0 +1,33 @@
+.content-category {
+    padding: 20px;
+  }
+  
+  .category-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #ffffff; /* Color de texto inspirado en Disney */
+  }
+  
+  .content-list {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .content-item {
+    margin-right: 20px;
+    margin-bottom: 20px;
+    width: 200px;
+  }
+  
+  .content-item img {
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .content-title {
+    font-size: 18px;
+    margin-top: 10px;
+    color: #ffffff; /* Color de texto inspirado en Disney */
+  }
+  
