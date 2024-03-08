@@ -16,3 +16,4 @@ componente 'Home'.
 ● Un componente llamado contentDetails donde se visualice el contenido
 multimedia seleccionado desde el componente contentCategory y su
 respectiva sinopsis o resumen.
+![image](https://github.com/estefaniarizzo/Disney/assets/72713520/ea509540-9b27-4abc-a292-ce03c9c07f17)
